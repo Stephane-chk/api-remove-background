@@ -1,0 +1,6 @@
+rembg==2.0.30
+Flask==2.0.3
+gunicorn==20.1.0
+minio==7.1.12
+python-dotenv==0.20.0
+urllib3==1.26.13
