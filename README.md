@@ -36,4 +36,7 @@ gunicorn --access-logfile app.log main:app -b 0.0.0.0:9090
 | `token`   | **Text format** | **Required** token          |
 | `files`   | **Files**       | **Required** the image file |
 
+#### Reponse 
+an image without the background in PNG format
+
 
