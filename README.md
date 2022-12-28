@@ -33,7 +33,7 @@ gunicorn --access-logfile app.log main:app -b 0.0.0.0:9090
 
 | Parameter | Type            | Description                 |
 | :-------- | :-------------- | :-------------------------- |
-| `token`   | **Text format** | **Required** token          |
+| `token`   | **Text format** | **Required** token (see .env file)          |
 | `files`   | **Files**       | **Required** the image file |
 
 #### Reponse 
