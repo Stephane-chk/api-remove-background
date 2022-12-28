@@ -11,7 +11,7 @@ pip install --upgrade pip
  - Install dependancies of the project
 
 ```sh
-pip install rembg
+pip install Flask gunicorn python-dotenv urllib3 rembg
 ```
 
   - To run the project: 
